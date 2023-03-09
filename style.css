@@ -1,0 +1,93 @@
+.fin {
+    font-size: 25px;
+    color: #3949ab;
+}
+
+.pay {
+    border: none;
+    padding: 40px 0 0 70px;
+}
+
+.erg {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.cn {
+    font-size: 20px;
+}
+
+.for {
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.str {
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.qu {
+    letter-spacing: 5px;
+    font-size: 20px;
+}
+
+.Font-color {
+    color: rgb(50, 94, 160);
+    font-weight: 300;
+}
+
+.bloo {
+    background-color: #f1f8e9;
+}
+
+.bloom {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.item {
+    text-align: center;
+    padding: 20px;
+}
+
+.car {
+    background-color: #f1f8e9;
+    padding: 70px;
+}
+
+.car .col img {
+    width: 200px;
+    margin: 0 auto;
+}
+
+@media screen and (max-width:700px) {
+    .sin {
+        margin: 0 0 20px 0;
+    }
+    .app {
+        margin: 10px 0 0 0;
+    }
+    .erg {
+        font-size: 15px;
+        font-weight: 100;
+    }
+    .cn {
+        font-size: 15px;
+    }
+    .for {
+        font-size: 15px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-weight: 300;
+    }
+    .str {
+        font-size: 15px;
+        font-weight: 300;
+    }
+    .qu {
+        letter-spacing: 2px;
+        font-size: 15px;
+    }
+}
